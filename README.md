@@ -1,6 +1,6 @@
 RPI-Configuration-Files
 =======================
 
-Configuration files used within my Raspberry Pi environment
+Configuration files used within ...
 
 Will be changed shortly :)
